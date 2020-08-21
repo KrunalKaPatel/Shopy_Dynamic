@@ -1,0 +1,72 @@
+2020-07-31T09:14:52+00:00 CRITICAL Uncaught Error: Call to undefined function phpthe_field() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:272
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 272
+
+2020-07-31T09:14:54+00:00 CRITICAL Uncaught Error: Call to undefined function phpthe_field() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:272
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 272
+
+2020-07-31T09:22:23+00:00 CRITICAL Uncaught Error: Call to undefined function phpthe_field() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:272
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 272
+
+2020-07-31T09:22:24+00:00 CRITICAL Uncaught Error: Call to undefined function phpthe_field() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:272
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 272
+
+2020-07-31T09:22:37+00:00 CRITICAL Uncaught Error: Call to undefined function phpthe_field() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:272
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 272
+
+2020-07-31T09:22:45+00:00 CRITICAL Uncaught Error: Call to undefined function phpthe_field() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:272
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 272
+
+2020-07-31T14:03:06+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:27
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 27
+
+2020-07-31T14:03:06+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:27
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 27
+
+2020-07-31T14:03:11+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php:27
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 27
+

@@ -1,0 +1,18 @@
+2020-07-30T12:21:41+00:00 CRITICAL syntax error, unexpected ''term_taxonomy_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 175
+
+2020-07-30T12:21:43+00:00 CRITICAL syntax error, unexpected ''term_taxonomy_id'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 175
+
+2020-07-30T13:18:24+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 185
+
+2020-07-30T13:18:25+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 185
+
+2020-07-30T13:19:59+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 185
+
+2020-07-30T13:20:00+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 185
+
+2020-07-30T13:20:08+00:00 CRITICAL Object of class WP_Error could not be converted to string in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 185
+
+2020-07-30T13:53:35+00:00 CRITICAL syntax error, unexpected '$v' (T_VARIABLE), expecting ',' or ';' in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 189
+
+2020-07-30T13:54:17+00:00 CRITICAL syntax error, unexpected ';' in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/home.php on line 189
+

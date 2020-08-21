@@ -1,0 +1,21 @@
+2020-08-05T13:40:57+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/woocommerce/checkout/form-checkout.php on line 52 and at least 2 expected in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/plugin.php:403
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/woocommerce/checkout/form-checkout.php(52): add_action('woocommerce_che...')
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(293): wc_get_template('checkout/form-c...', Array)
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout:: in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/plugin.php on line 403
+
+2020-08-05T13:40:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/woocommerce/checkout/form-checkout.php on line 52 and at least 2 expected in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/plugin.php:403
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/woocommerce/checkout/form-checkout.php(52): add_action('woocommerce_che...')
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(293): wc_get_template('checkout/form-c...', Array)
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout:: in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/plugin.php on line 403
+
+2020-08-05T13:41:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/woocommerce/checkout/form-checkout.php on line 52 and at least 2 expected in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/plugin.php:403
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/woocommerce/checkout/form-checkout.php(52): add_action('woocommerce_che...')
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(293): wc_get_template('checkout/form-c...', Array)
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout:: in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/plugin.php on line 403
+

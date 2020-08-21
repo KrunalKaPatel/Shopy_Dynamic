@@ -1,0 +1,32 @@
+2020-08-18T06:22:12+00:00 CRITICAL Uncaught Error: Call to undefined function woo_pagination() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php:213
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php on line 213
+
+2020-08-18T06:22:13+00:00 CRITICAL Uncaught Error: Call to undefined function woo_pagination() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php:213
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php on line 213
+
+2020-08-18T06:22:20+00:00 CRITICAL Uncaught Error: Call to undefined function woo_pagination() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php:213
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php on line 213
+
+2020-08-18T06:33:20+00:00 CRITICAL Uncaught Error: Call to a member function get_gallery_image_ids() on null in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php:130
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template-loader.php(106): include()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-blog-header.php(19): require_once('/home/stagingpr...')
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/index.php(17): require('/home/stagingpr...')
+#3 {main}
+  thrown in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/themes/shopy/template/new-arrivals.php on line 130
+

@@ -1,0 +1,46 @@
+2020-08-17T10:52:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_gallery_image_ids() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php:178
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template.php(732): require()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(283): load_template('/home/stagingpr...', false)
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(598): wc_get_template_part('content', 'single-product')
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(343): WC_Shortcodes::product_page(Array, '', 'product_page')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(produc...', 'do_shortcode_ta...', '[p in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php on line 178
+
+2020-08-17T10:52:48+00:00 CRITICAL Uncaught Error: Call to undefined function get_gallery_image_ids() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php:178
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template.php(732): require()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(283): load_template('/home/stagingpr...', false)
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(598): wc_get_template_part('content', 'single-product')
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(343): WC_Shortcodes::product_page(Array, '', 'product_page')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(produc...', 'do_shortcode_ta...', '[p in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php on line 178
+
+2020-08-17T10:53:03+00:00 CRITICAL Uncaught Error: Call to undefined function get_gallery_image_ids() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php:178
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template.php(732): require()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(283): load_template('/home/stagingpr...', false)
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(598): wc_get_template_part('content', 'single-product')
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(343): WC_Shortcodes::product_page(Array, '', 'product_page')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(produc...', 'do_shortcode_ta...', '[p in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php on line 178
+
+2020-08-17T10:56:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_gallery_image_ids() in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php:180
+Stack trace:
+#0 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/template.php(732): require()
+#1 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/wc-core-functions.php(283): load_template('/home/stagingpr...', false)
+#2 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(598): wc_get_template_part('content', 'single-product')
+#3 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(343): WC_Shortcodes::product_page(Array, '', 'product_page')
+#4 [internal function]: do_shortcode_tag(Array)
+#5 /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-includes/shortcodes.php(218): preg_replace_callback('/\\[(\\[?)(produc...', 'do_shortcode_ta...', '[p in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/content-single-product.php on line 180
+
+2020-08-17T13:51:46+00:00 CRITICAL syntax error, unexpected end of file in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php on line 44
+
+2020-08-17T13:51:46+00:00 CRITICAL syntax error, unexpected end of file in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php on line 44
+
+2020-08-17T13:52:48+00:00 CRITICAL syntax error, unexpected end of file in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php on line 44
+
+2020-08-17T13:53:04+00:00 CRITICAL syntax error, unexpected end of file in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php on line 44
+
+2020-08-17T13:54:02+00:00 CRITICAL syntax error, unexpected end of file in /home/stagingprojectpr/public_html/projects/demowp/shopy/wp-content/plugins/woocommerce/templates/single-product/product-thumbnails.php on line 44
+
